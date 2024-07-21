@@ -1,0 +1,2 @@
+1: query db for transport availability on route and specific date picked (check for seat availability)
+2:After selecting the travel option then you are requre to login to pay or register (generate token and session token)(to  and fro should be considered and ability to cancel trip)

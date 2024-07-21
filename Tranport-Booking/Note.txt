@@ -1,0 +1,52 @@
+https://dribbble.com/shots/20374048-Book-Your-Bus-Adventure-A-Bus-Booking-App-Concept-for-iOS
+https://dribbble.com/shots/18132146-Bus-Booking-App
+{
+  "bus_company": "XYZ Bus Company",
+  "bus_type": "Standard",
+  "capacity": 50,
+  "amenities": ["Wi-Fi", "Restrooms", "Entertainment Systems"],
+  "route": {
+    "origin": "City A",
+    "stops": ["City B", "City C"],
+    "destination": "City D"
+  },
+  "schedule": {
+    "departure_time": "2024-05-01T08:00:00",
+    "arrival_time": "2024-05-01T18:00:00",
+    "duration": "10 hours"
+  },
+  "pricing": {
+    "ticket_price": 30,
+    "discounts": ["Senior", "Student"]
+  },
+  "booking": {
+    "reservation_system": "Online",
+    "availability": 20
+  }
+}
+
+{
+  "user_id": "12345",
+  "travel_preferences": {
+    "travel_date": "2024-05-01",
+    "departure_time_preference": "Morning",
+    "amenities_preference": ["Wi-Fi", "Restrooms"],
+    "budget": 50
+  },
+  "booking_details": {
+    "number_of_tickets": 2,
+    "payment_method": "Credit Card"
+  },
+  "additional_services": {
+    "luggage": 2,
+    "special_needs": []
+  },
+  "confirmation": {
+    "confirmation_number": "ABC123",
+    "booking_status": "Confirmed"
+  },
+  "feedback": {
+    "satisfaction": 4,
+    "comments": "Enjoyed the trip, but Wi-Fi signal was weak."
+  }
+}
